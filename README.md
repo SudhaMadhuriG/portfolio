@@ -8,7 +8,7 @@ JNTUH	TS, INDIA
 B.Tech, Information Technology	(2018 - 2022)
 
 # PROFESSIONAL EXPERIENCE
-Clark University	MA, USA
+#Clark University	MA, USA
 Data Analyst TA	(Jan 2025 - May 2025)
 •	Supported faculty in teaching SQL, Python, and data visualization tools including Tableau and Power BI.
 •	Assisted in grading, project mentoring, and conducting lab sessions on SQL querying, data modeling, and dashboard design.
